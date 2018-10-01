@@ -1,1 +1,0 @@
-# Webpack simple config
